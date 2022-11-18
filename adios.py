@@ -1,2 +1,2 @@
 
-print('soy un archivo de gato')
+print('soy un archivo de pruebas')
